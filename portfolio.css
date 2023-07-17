@@ -387,7 +387,7 @@ background: rgb(170, 107, 228);
         margin: 30px 40px;
     }
     .image img{
-    margin-left: 185px;
+    margin-left: 355px;
     }
 
     .layer h3{
@@ -396,7 +396,7 @@ background: rgb(170, 107, 228);
     }
 
     .btn {
-margin-left: 210px;
+margin-left: 355px;
     }
     nav ul li {
         list-style: none;
@@ -416,4 +416,6 @@ margin-left: 210px;
     .tab-contents ul li {
         font-size: 25px;
     }
+    .left{
+    font-size:40px;
 }
